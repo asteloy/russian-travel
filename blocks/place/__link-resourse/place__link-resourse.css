@@ -1,0 +1,13 @@
+.place__link-resourse {
+  line-height: 22px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #fff;
+  text-decoration-line: underline;
+  opacity: 1;
+  transition: 0.4s;
+}
+
+.place__link-resourse:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,31 @@
+.place__text {
+  margin: 0 0 26px 0;
+  line-height: 29px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #fff;
+}
+
+.place__text:last-child {
+  margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .place__text {
+    margin: 0 0 25px 0;
+    line-height: 26px;
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .place__text {
+    padding: 0 16px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__text {
+    padding: 0;
+  }
+}
