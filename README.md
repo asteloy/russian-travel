@@ -15,4 +15,4 @@
 
 **Проект на GitHub Pages**
 
-* [ссылка на проект в GitHub Pages]()
+* [ссылка на проект в GitHub Pages](https://asteloy.github.io/russian-travel/)
