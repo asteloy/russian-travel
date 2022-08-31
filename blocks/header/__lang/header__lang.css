@@ -5,15 +5,6 @@
   align-items: center;
 }
 
-.header__lang li {
-  list-style: none;
-  margin-right: 18px;
-}
-
-.header__lang li:last-child {
-  margin-right: 0;
-}
-
 @media screen and (max-width: 320px) {
   .header__lang {
     padding: 11px 0 8px 0;
